@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407411775325",
+    "project_id": "diffusante",
+    "storage_bucket": "diffusante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407411775325:android:600355b80abd4bf2ac3ab4",
+        "android_client_info": {
+          "package_name": "com.larbibouamranemohamed.diffusante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407411775325-ibrgre6a6m982das6llqn8ev3852vfjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.larbibouamranemohamed.diffusante",
+            "certificate_hash": "cdb84fa64145ce301e7ddc960dbabd7b5c2e1a12"
+          }
+        },
+        {
+          "client_id": "407411775325-22i021dqrq30q0jp532ct8nl6g5ksjeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr41iqQ_k9Lp8fRVJ1qZ2OWI-vKPF7aOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407411775325-22i021dqrq30q0jp532ct8nl6g5ksjeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
